@@ -1,0 +1,13 @@
+
+
+{
+ "Dependencies" : {
+			
+			"html5lib":"0.999",
+			"requests":"2.18.3",
+			"setuptools":"20.7.0"
+
+			
+                   }
+}
+

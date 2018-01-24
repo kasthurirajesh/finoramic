@@ -1,0 +1,21 @@
+
+Here all dependencies are included in data.json. 
+
+Intially data is read from the file and it  is key and value format i.e.(key = packageName, value = version number)
+
+once you have the package name with version number we can install the package with the help of pip.
+
+Here each time stdout is stored in stdout.txt 
+
+from the stdout we can now search for specified keywords in the stdout.file 
+
+if the keywords are (Successfully installed)  or (Requirement already satisfied) , it means it is successfully installed else it is not installed
+
+if the package is not installed then I create a file with the packageName.txt.
+
+
+
+
+
+
+
